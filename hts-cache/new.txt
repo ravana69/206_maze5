@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:30:54	75/75	---M-Z	200	added ('OK')	text/plain	date:Tue,%2012%20Jul%202011%2009:29:29%20GMT	https://grgrdvrt.com/robots.txt		(from )
+10:30:54	3340/3340	---M-Z	200	added ('OK')	text/html	date:Mon,%2024%20Apr%202023%2005:00:56%20GMT	https://grgrdvrt.com/sketches/206_maze5/	C:/My%20Web%20Sites/206_maze5/grgrdvrt.com/sketches/206_maze5/index.html	(from )
+10:30:54	88/88	---M-Z	200	added ('OK')	text/css	date:Sat,%2029%20Dec%202012%2017:27:44%20GMT	https://grgrdvrt.com/sketches/css/styles.css	C:/My%20Web%20Sites/206_maze5/grgrdvrt.com/sketches/css/styles.css	(from https://grgrdvrt.com/sketches/206_maze5/)
+10:30:55	8148/8148	---M-Z	200	added ('OK')	application/javascript	date:Sat,%2016%20Feb%202019%2010:09:22%20GMT	https://grgrdvrt.com/sketches/libs/tools.js	C:/My%20Web%20Sites/206_maze5/grgrdvrt.com/sketches/libs/tools.js	(from https://grgrdvrt.com/sketches/206_maze5/)
